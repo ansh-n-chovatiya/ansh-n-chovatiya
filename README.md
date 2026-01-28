@@ -7,15 +7,6 @@ I have worked extensively on integrating frontend applications with backend APIs
 
 ---
 
-## About me
-
-- 🛠️ Currently working on **SaaS Developer Templates**
-- 🌱 Actively learning **Backend Development** to strengthen full-stack capabilities
-- 💬 Ask me about **Frontend Development, API Integration, React.js, Next.js**
-- 📫 Contact: **ansh.n.chovatiya@gmail.com**
-
----
-
 ## Technical skills
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js  
@@ -38,11 +29,3 @@ I have worked extensively on integrating frontend applications with backend APIs
 - 🧩 **SaaS Developer Templates** – Frontend starter templates  
   Created reusable, scalable frontend templates with API-ready architecture.  
   https://saas-developer-template.com
-
----
-
-## Professional goals
-
-- Build maintainable, scalable frontend systems for real-world products
-- Deepen backend knowledge and move toward full-stack development
-- Contribute to open-source and collaborative engineering projects
