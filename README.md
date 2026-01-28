@@ -5,16 +5,12 @@ Experienced in developing responsive, performant, and scalable user interfaces w
 
 I have worked extensively on integrating frontend applications with backend APIs, handling asynchronous data flows, and building user-friendly interfaces on top of real-world data.
 
----
-
 ## Technical skills
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js  
 - **UI & Styling:** HTML5, CSS3, Responsive Design  
 - **API Integration:** REST APIs, Fetch API, Async/Await, Error Handling  
 - **Tools:** Git, GitHub, Version Control
-
----
 
 ## Projects
 
