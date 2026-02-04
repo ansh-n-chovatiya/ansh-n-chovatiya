@@ -16,7 +16,7 @@ I have worked extensively on integrating frontend applications with backend APIs
 
 - 🚀 **Flyeraura** – Flyer maker for small businesses  
   Built responsive user interfaces and integrated backend APIs to enable dynamic content creation.  
-  https://www.flygaura.com
+  https://www.flyeraura.com
 
 - 📅 **PostSuite** – Social media scheduling platform  
   Developed dashboard components and integrated APIs for scheduling and managing posts across platforms.  
